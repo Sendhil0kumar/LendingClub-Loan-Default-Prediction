@@ -2,7 +2,7 @@ Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
 Python cache
-pycache/
+__pycache__/
 *.pyc
 
 System files
